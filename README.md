@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m Lassina Bakary Keita  
 
-<!--
-**LassinaBakaryKeita/LassinaBakaryKeita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student in **Software Engineering and Artificial Intelligence (ILIA)** at ENSAF.  
+💻 Passionate about **web, mobile, and software development**, with a strong interest in **Artificial Intelligence**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Tools
+- **Languages & Web**: C, HTML, CSS , beginner in JavaScript.  
+- **Scientific tools**: MATLAB, LabVIEW, Simulink.  
+
+---
+
+## 🌱 Currently Learning
+- Strengthening knowledge in **JavaScript**.  
+- Modern web development (HTML, CSS, JS).  
+
+
+---
+
+## 💡 Interests
+- Web development (front-end & back-end).  
+- Mobile development.  
+- Artificial Intelligence & Data Science.  
+
+---
+
+## 📫 Contact
+- ✉️ Email: **lassbakkeita6@gmail.com**
+- - 🌍 GitHub : [LassinaBakaryKeita](https://github.com/LassinaBakaryKeita)
+
