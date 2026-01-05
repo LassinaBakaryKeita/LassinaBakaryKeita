@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Skills & Tools
-- **Languages & Web**: C, HTML, CSS , beginner in JavaScript.  
+- **Languages & Web**: C, HTML, CSS ,JavaScript, Java, Dart (niveau debutant)   
 - **Scientific tools**: MATLAB, LabVIEW, Simulink.  
 
 ---
@@ -14,7 +14,6 @@
 ## 🌱 Currently Learning
 - Strengthening knowledge in **JavaScript**.  
 - Modern web development (HTML, CSS, JS).  
-
 
 ---
 
