@@ -12,9 +12,7 @@
 ---
 
 ## 🌱 Currently Learning
-- Strengthening knowledge in **JavaScript**.  
-- Modern web development (HTML, CSS, JS).  
-
+- Strengthening knowledge in ** web development**.  
 ---
 
 ## 💡 Interests
