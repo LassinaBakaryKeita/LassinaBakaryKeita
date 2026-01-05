@@ -12,7 +12,7 @@
 ---
 
 ## 🌱 Currently Learning
-- Strengthening knowledge in ** web development**.  
+- Strengthening knowledge in  **web development**.  
 ---
 
 ## 💡 Interests
