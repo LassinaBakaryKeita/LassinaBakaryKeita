@@ -7,7 +7,7 @@
 
 ## 🚀 Skills & Tools
 - **Languages & Web**: C, HTML, CSS ,JavaScript, Java, Dart (beginner level)
-- **Framework**: Boostrap,ReactJs (beginner level)        
+- **Framework**: Boostrap, ReactJs (beginner level)        
 - **Scientific tools**: MATLAB, LabVIEW, Simulink.
 ---
 
