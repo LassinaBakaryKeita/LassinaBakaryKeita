@@ -30,7 +30,8 @@
 - Object-Oriented Programming (OOP) in Java  
 - Data Structures:
   - Linked Lists (singly & doubly linked lists)  
-  - Stacks  
+  - Stacks
+  - Queue
   - Trees  
   - Hash Tables  
 
@@ -70,5 +71,5 @@
 
 ## 📫 Contact  
 - ✉️ Email: **lassbakkeita6@gmail.com**  
-- 🌍 LinkedIn: *(add your LinkedIn link here)*  
-- 🎵 TikTok: *(add your TikTok link here)*  
+- 🌍 LinkedIn: https://www.linkedin.com/in/lassina-bakary-ke%C3%AFta-b28626370/
+- 🎵 TikTok: https://www.tiktok.com/@lassina.bakary.ke?is_from_webapp=1&sender_device=pc
