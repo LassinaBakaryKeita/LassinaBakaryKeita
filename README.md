@@ -173,7 +173,7 @@ Premium e-commerce platform for French-speaking women's fashion.
 | 📧 **Email** | [lassbakkeita6@gmail.com](mailto:lassbakkeita6@gmail.com) |
 | 💼 **LinkedIn** | [Lassina Bakary Keïta](https://www.linkedin.com/in/lassina-bakary-keïta-b28626370/) |
 | 🎵 **TikTok** | [@lassina.bakary.ke](https://www.tiktok.com/@lassina.bakary.ke) |
-| 🌍 **GitHub** | [@your-github-username](https://github.com/your-username) |
+| 🌍 **GitHub** | [@Mon Github](https://github.com/LassinaBakaryKeita) |
 
 ---
 
