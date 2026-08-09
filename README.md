@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Tech Stack & Expertise
+##  Tech Stack & Expertise
 
 ### 🌐 **Full-Stack Web Development**
 
