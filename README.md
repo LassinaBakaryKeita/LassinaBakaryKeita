@@ -139,7 +139,7 @@ An AI-powered learning platform for programming and CS education (French-languag
 ### **OURIAM** 👗
 Premium e-commerce platform for French-speaking women's fashion.
 - **Tech**: React, Vite, Tailwind CSS v4, Framer Motion, Responsive design
-- **Status**: Frontend development
+- **Status**: In active development
 
 ---
 
